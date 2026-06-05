@@ -1,0 +1,8 @@
+{
+  "name": "Butwal Fashion Boutique",
+  "description": "A high-end clothing boutique e-commerce web application based in Butwal, Nepal. Features full-scale seasonal collections (Men, Women, Kids, Accessories), dynamic tracking, local cart checkout, blogs, policies, and interactive reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
